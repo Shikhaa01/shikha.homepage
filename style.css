@@ -18,7 +18,7 @@
 }
 
 .logo{
-    background-image: url(logo.png);
+    background-image: url(images/logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     height: 80px;
@@ -159,7 +159,7 @@
 
 /**hero setion**/
 .hero-section{
-    background-image: url(hero.webp); 
+    background-image: url(images/hero.webp); 
     background-size: 100%;
     background-color: #A0D683;
     background-repeat: no-repeat;
